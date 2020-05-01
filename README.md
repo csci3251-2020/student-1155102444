@@ -30,5 +30,5 @@ Homework purpose only
 - [ ] CSCI3250 CSE blog
 
 ## Screenshot
-
+![](https://github.com/csci3251-2020/student-1155102444/blob/master/screenshot.JPG)
 
