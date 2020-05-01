@@ -24,10 +24,10 @@ Homework purpose only
 
 # To do list
 
--[x] CSCI3251 Project Milestone 2
--[x] CSCI3251 Project Milestone 3
--[ ] CSCI3250 Visit report
--[ ] CSCI3250 CSE blog
+- [x] CSCI3251 Project Milestone 2
+- [x] CSCI3251 Project Milestone 3
+- [ ] CSCI3250 Visit report
+- [ ] CSCI3250 CSE blog
 
 ## Screenshot
 
